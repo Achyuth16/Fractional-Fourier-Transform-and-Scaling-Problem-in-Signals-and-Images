@@ -1,0 +1,2 @@
+# Fractional-Fourier-Transform-and-Scaling-Problem-in-Signals-and-Images
+Patterns that might not be transparent to a computer but could be transparent to the human eye and human intelligence is the most addressable problem in recent science. The main objective of this project is to address the dynamic pattern scaling problem in computers and study the different background methods to identify the patterns in data.
